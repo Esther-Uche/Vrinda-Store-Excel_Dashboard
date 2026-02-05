@@ -1,7 +1,9 @@
 
 # Vrinda Store Sales Analysis Dashboard
 
-![Vrinda-Store-Excel-Dashboard]vrinda_pics.jfif)
+## **Excel Data Analysis Project by Uchechi Esther Nwaoha**
+
+![Vrinda-Store-Excel-Dashboard](./woman-in-store.jpeg)
 
 ## 📘 Project Overview
 The **Vrinda Store Data Analysis Project** is a comprehensive exploration of sales performance, customer behavior, and business trends. This project demonstrates the power of Excel in transforming raw data into actionable insights through structured cleaning, pivot table analysis, and interactive dashboarding.
